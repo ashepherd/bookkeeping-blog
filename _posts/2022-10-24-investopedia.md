@@ -1,7 +1,7 @@
 ---
 layout: 
 title: 
-date: 2022-10-24
+date: 2022-10-24 12:00:00
 ---
 
 Last week, my girlfriend rented commercial space to begin her dream career move - owning a child therapy practice. I was so shocked (and scared) by how quickly she jumped at the opportunity. But her courage and confidence was inspiring. I've been helping her renovate the small place, and the more time I spent working alongside her, the more I thought about my own dreams. It occurred to me that while I have dreams, I'm not doing much to pursue them. 
