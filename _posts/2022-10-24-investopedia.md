@@ -15,5 +15,5 @@ One of those dreams is to work with personal finance in some way. I LOVE the num
 
 Here it goes, I know nothing about becoming a bookkeeper or an accoutant, and CPA or CFP. I do know that these words have been mentioned around things I like. So what the heck, this is where I start. My first google search looking into how to get educated started with this result here on Investopedia:
 
-https://www.investopedia.com/best-online-bookkeeping-classes-5080723
+[Best Online Bookkeeping Classes](https://www.investopedia.com/best-online-bookkeeping-classes-5080723) _updated October 14, 2022_
 
