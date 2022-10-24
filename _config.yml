@@ -17,8 +17,8 @@
 title: Becoming a Bookkeeper
 description: Start a new career from the beginning
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bookkeeping-blog" # the subpath of your site, e.g. /blog
+url: "https://ashepherd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_repo: bookkeeping-blog # the GitHub repo name for your project
 github_username: ashepherd
