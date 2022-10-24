@@ -2,6 +2,7 @@
 layout: category-post
 title:  "The Beginning"
 date:   2022-10-24 20:20:56 -0400
+category: about
 ---
 
 How did I get here?
