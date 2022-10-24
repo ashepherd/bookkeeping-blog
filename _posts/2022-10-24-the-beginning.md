@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "The Beginning"
-date:   2022-10-24
+date:   2022-10-24 10:00:00
 category: about
 ---
 
