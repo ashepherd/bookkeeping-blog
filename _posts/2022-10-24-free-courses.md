@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "How I Began my Bookkeeping Education on Investopedia"
+title:  "How I Began my Bookkeeping Education - Free Courses"
 date:   2022-10-24 12:00:00
 category: education
 ---
@@ -13,7 +13,8 @@ I'm a planner. I want to see all the angles and understand all the risks before 
 
 One of those dreams is to work with personal finance in some way. I LOVE the numbers. I LOVE the puzzle. Finding the place where a budget makes sense. I know that everyone has their own goals when it comes to financial planning. My goal - security - heavily influences how I decide to allocate my funds. To me, there is an exciting challenge of understanding _someone elese's goals_ and how a financial plan can be contructed to bring them success _and balance in life_.
 
-Here it goes, I know nothing about becoming a bookkeeper or an accoutant, and CPA or CFP. I do know that these words have been mentioned around things I like. So what the heck, this is where I start. My first google search looking into how to get educated started with this result here on Investopedia:
+Here it goes, I know nothing about becoming a bookkeeper or an accoutant, and CPA or CFP. I do know that these words have been mentioned around things I like. So what the heck, this is where I start. My first google search looking into how to get educated started with these results 
 
-[Best Online Bookkeeping Classes](https://www.investopedia.com/best-online-bookkeeping-classes-5080723) _updated October 14, 2022_
+* [Best Online Bookkeeping Classes](https://www.investopedia.com/best-online-bookkeeping-classes-5080723) _updated October 14, 2022_
+* [THE 10 BEST ONLINE FREE ACCOUNTING CLASSES](https://www.collegeconsensus.com/rankings/best-free-online-accounting-courses/) _updated April 26, 2021_
 
